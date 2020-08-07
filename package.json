@@ -9,7 +9,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "core-js": "^2.6.5",
     "element-ui": "^2.6.1",
     "ts-jsonapi": "^2.1.2",
